@@ -1,0 +1,2 @@
+The Arduino UNO form factor development board with a 1284P chipset is designed with KICAD EDA.
+Source files are provided.
